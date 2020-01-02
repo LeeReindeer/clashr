@@ -5,25 +5,13 @@
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
-<p align="center">
-  <a href="https://travis-ci.org/LeeReindeer/clashr">
-    <img src="https://img.shields.io/travis/LeeReindeer/clashr.svg?style=flat-square"
-         alt="Travis-CI">
-  </a>
-  <a href="https://goreportcard.com/report/github.com/LeeReindeer/clashr">
-    <img src="https://goreportcard.com/badge/github.com/LeeReindeer/clashr?style=flat-square">
-  </a>
-  <a href="https://github.com/LeeReindeer/clashr/releases">
-    <img src="https://img.shields.io/github/release/LeeReindeer/clashr/all.svg?style=flat-square">
-  </a>
-</p>
 
 ## Features
 
 - HTTP, HTTPS and SOCKS protocol
 - Surge-like configuration format
 - GeoIP rule support
-- Supports Vmess, Shadowsocks and SOCKS5
+- Supports Vmess, Shadowsocks, ShadowsocksR and SOCKS5
 - Supports Netfilter TCP redirecting
 - Comprehensive API
 
