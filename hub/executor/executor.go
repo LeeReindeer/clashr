@@ -1,15 +1,15 @@
 package executor
 
 import (
-	"github.com/zu1k/clashr/component/auth"
-	trie "github.com/zu1k/clashr/component/domain-trie"
-	"github.com/zu1k/clashr/config"
-	C "github.com/zu1k/clashr/constant"
-	"github.com/zu1k/clashr/dns"
-	"github.com/zu1k/clashr/log"
-	P "github.com/zu1k/clashr/proxy"
-	authStore "github.com/zu1k/clashr/proxy/auth"
-	T "github.com/zu1k/clashr/tunnel"
+	"github.com/LeeReindeer/clashr/component/auth"
+	trie "github.com/LeeReindeer/clashr/component/domain-trie"
+	"github.com/LeeReindeer/clashr/config"
+	C "github.com/LeeReindeer/clashr/constant"
+	"github.com/LeeReindeer/clashr/dns"
+	"github.com/LeeReindeer/clashr/log"
+	P "github.com/LeeReindeer/clashr/proxy"
+	authStore "github.com/LeeReindeer/clashr/proxy/auth"
+	T "github.com/LeeReindeer/clashr/tunnel"
 )
 
 // Parse config with default config path
